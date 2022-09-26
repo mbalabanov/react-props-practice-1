@@ -3,7 +3,6 @@ import Title from "./components/Title";
 import Namelength from "./components/Namelength";
 import Namereversed from "./components/Namereversed";
 
-import { reverse } from "./helpers";
 import "./styles.css";
 
 export default function App() {
